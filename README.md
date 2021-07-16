@@ -24,6 +24,19 @@
 
 </p>
 
+<h3 align="left">Languages:</h3>
+<p align="left"> <a href="https://www.python.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/73133055/125939105-8704fdae-5dfd-40a9-a7f1-b7a1eb228433.png" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://user-images.githubusercontent.com/73133055/125940564-25ade5a0-9c8b-4129-9a7a-fbc1c9f995fa.png" alt="JavaScript " width="30" height="30"/> </a> 
+ 
+
+<h3 align="left">Tools:</h3>
+<p align="left">  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://github.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/73133055/125941702-61ab3fd1-081f-490c-a1c9-5771bfc65c9e.png" alt="Github" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/73133055/125941955-6a99e34b-eb45-4eae-9192-92ac3daae552.png" alt="unity3d" width="40" height="40"/> </a> 
+  
+  <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
+  <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=A-kriti&show_icons=true&locale=en" alt="A-kriti" /></p>

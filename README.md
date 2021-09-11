@@ -37,7 +37,7 @@
 
  
  
-<h3 align="left">Try some of my snapchat filters</h3>
+<h3 align="left">Try some of my snapchat filters:</h3>
 <p align="left">
 
  <h4 align="left">Purple Sunglasses</h4>

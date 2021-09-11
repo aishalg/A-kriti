@@ -37,17 +37,6 @@
 
  
  
-<h3 align="left">Try some of my snapchat filters:</h3>
-<p align="left">
-
- <h4 align="left">Purple Sunglasses</h4>
- <a href="https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=ff0b2b5ff0ff45de94525c066c7d7ce1&metadata=01" target="_blank"> <img src="https://user-images.githubusercontent.com/73133055/132957266-8313377b-4e90-4bcb-83fe-bcbdbb7a0c40.png" alt="css3" width="40" height="40"/> </a> 
-
-  <h4 align="left">Tangy Makeup</h4>
- <a href="https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=ae2562ec12134a7fae598cc668772c41&metadata=01" target="_blank"> <img src="https://user-images.githubusercontent.com/73133055/132957266-8313377b-4e90-4bcb-83fe-bcbdbb7a0c40.png" alt="css3" width="40" height="40"/> </a> 
-
-</p>
- 
  
  
 <h3 align="left">Tools:</h3>
@@ -59,6 +48,19 @@
 
 </p>
 
+
+
+ 
+<h3 align="left">Try some of my snapchat filters:</h3>
+<p align="left">
+
+ <h4 align="left">Purple Sunglasses</h4>
+ <a href="https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=ff0b2b5ff0ff45de94525c066c7d7ce1&metadata=01" target="_blank"> <img src="https://user-images.githubusercontent.com/73133055/132957266-8313377b-4e90-4bcb-83fe-bcbdbb7a0c40.png" alt="css3" width="40" height="40"/> </a> 
+
+  <h4 align="left">Tangy Makeup</h4>
+ <a href="https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=ae2562ec12134a7fae598cc668772c41&metadata=01" target="_blank"> <img src="https://user-images.githubusercontent.com/73133055/132957266-8313377b-4e90-4bcb-83fe-bcbdbb7a0c40.png" alt="css3" width="40" height="40"/> </a> 
+
+</p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=A-kriti&show_icons=true&locale=en" alt="A-kriti" /></p>

@@ -6,8 +6,6 @@
 
 <p align="left"><img src="https://user-images.githubusercontent.com/73133055/125938552-1f60188b-0e98-4907-9e76-46d0800bae8e.gif" width="250"/></p>
 
-
-
 - 🔭 I’m currently pursuing my bachelor's degree in Data Science from IIT Mandi
 - 🌱 I’m currently learning to enjoy my life to the fullest!
 - 👯 I’m looking to collaborate on Open Source Projects!

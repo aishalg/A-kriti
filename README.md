@@ -16,7 +16,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=A-kriti&label=Profile%20views&color=0e75b6&style=flat" alt="A-kriti" /> </p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73133055/125938816-fce8e3c5-9151-4dc7-b4e1-52f97d238523.gif" width="500"/></p>
+<!--<p align="center"><img src="https://user-images.githubusercontent.com/73133055/125938816-fce8e3c5-9151-4dc7-b4e1-52f97d238523.gif" width="500"/></p>-->
+
+<p align="center"><img src="https://user-images.githubusercontent.com/73133055/152651686-8a503e45-80e1-4203-81cb-97e00cc1a12d.gif" width="500"/></p>
 
 
 <h3 align="left">Connect with me:</h3>

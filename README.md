@@ -49,7 +49,6 @@
 
 
 
- 
 <h3 align="left">Try some of my snapchat filters:</h3>
 <p align="left">
 

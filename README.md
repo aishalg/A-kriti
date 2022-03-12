@@ -7,11 +7,11 @@
 
 <p align="left"><img src="https://user-images.githubusercontent.com/73133055/125938552-1f60188b-0e98-4907-9e76-46d0800bae8e.gif" width="250"/></p>
 
-- 🔭 I’m currently pursuing my bachelor's degree in Data Science from IIT Mandi
+- 🔭 I’m currently pursuing my Bachelor's degree in Computer Science from IIT Mandi
 - 🌱 I’m currently learning to enjoy my life to the fullest!
 - 👯 I’m looking to collaborate on Open Source Projects!
 - 💬 Ask me about 🤷‍
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/akriti-b677181a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Akriti" height="20" width="15" /></a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/akriti-b677181a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aishal" height="20" width="15" /></a>
 
 - ⚡ Fact: It's always just an idea before it makes history!!
 
@@ -48,7 +48,7 @@
 </p>
 
 
-
+<!-- 
 <h3 align="left">Try some of my snapchat filters:</h3>
 <p align="left">
 
@@ -58,10 +58,10 @@
   <h4 align="left">Tangy Makeup</h4>
  <a href="https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=ae2562ec12134a7fae598cc668772c41&metadata=01" target="_blank"> <img src="https://user-images.githubusercontent.com/73133055/132957266-8313377b-4e90-4bcb-83fe-bcbdbb7a0c40.png" alt="css3" width="40" height="40"/> </a> 
 
-</p>
+</p> -->
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=A-kriti&show_icons=true&locale=en" alt="A-kriti" /></p>
-
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=A-kriti&show_icons=true&locale=en" alt="A-kriti" /></p>
+ -->
  
 
